@@ -1,0 +1,44 @@
+section.begin
+   Version = 2.0
+   MMX = True
+   SSE = True
+   SSE2 = True
+   SSE3 = True
+   SSE4 = True
+   HTT = True
+   AMDMMX = False
+   _3DNow = False
+   _3DNow2 = False
+   MaxMhz = 25558540
+   CurrentMhz = 4212965
+   NumLogicalProc = 16
+   NumCores = 1
+   dwTotalPhys = 4201750528
+   GLVendor = Intel
+   GLRenderer = Intel(R) HD Graphics 620
+   GLVersion = 4.6.0 - Build 31.0.101.2111
+   GLFBOSupport = True
+   GLSLSupport = True
+   GLShadowSupport = True
+   GLShadowAmbientSupport = False
+   GLPBufferSupport = True
+   GLMultitextureSupport = True
+   GLMultisampleSupport = True
+   GLTextureCompressionS3TCSupport = True
+   Acceleration = chaHardware
+   AdapterVendor = INTEL
+   AdapterProduct = 31
+   AdapterVersion = 0
+   AdapterSubVersion = 101
+   AdapterBuild = 2111
+   AdapterSubVersionBuild = 1012111
+   AdapterDriver = igdumdim32.dll
+   AdapterDescription = Intel(R) HD Graphics 620
+   AdapterDeviceName = \\.\DISPLAY1
+   AdapterVendorId = 32902
+   AdapterDeviceId = 22806
+   AdapterSubSysId = 4156
+   AdapterRevision = 2
+   AdapterWHQLLevel = 0
+section.end
+
